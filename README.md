@@ -1,3 +1,9 @@
 # Pascal Strings in x86-64 Assembly
-Program for manipulating Pascal-type strings written in assembly.
+Implementation of various string.h library functions for (https://wiki.freepascal.org/String)[pascal strings]
 
+## Included functions:
+- strlen
+- strncpy
+- strncmp
+- toupper
+- tolower
